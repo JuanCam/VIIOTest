@@ -2,6 +2,14 @@
 
 Welcome to UI VIIO. This is a UI component library elaborated for VIIO.
 
+Deps: yarn, node.
+
+to install dependencies run:
+
+```
+yarn
+```
+
 to run the storybook please run:
 
 ```
